@@ -1,3 +1,9 @@
+/*Jonathan Abdo
+ * create an app that allows users to add a country to a text file, 
+ * and print the entire list of countries from the text file
+ * 
+ * (uses InputCheck.java https://github.com/Jabdo79/InputCheck)
+ */
 import java.io.IOException;
 import java.util.Scanner;
 
